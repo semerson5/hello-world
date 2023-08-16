@@ -1,2 +1,2 @@
 # hello-world
-This is a test for creating a repository on GitHub.
+I am a computer science student and I am looking forward to learning new things this semester.
